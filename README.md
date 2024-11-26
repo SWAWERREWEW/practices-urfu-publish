@@ -1,5 +1,5 @@
 ## :heavy_check_mark: Выполненые практики от студента __Коробейникова Артёма Юрьевича из УрФУ__.
-![example](https://img.shields.io/badge/Google_colab-Python-blue)
+![example](https://img.shields.io/badge/Google_colab-Python-green)
 
 Это просто папка с файлами, перегруженными с google диска.
 
