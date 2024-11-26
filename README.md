@@ -13,3 +13,6 @@
 - [X] [Пратика 0.4.0 на google диске](https://colab.research.google.com/drive/17uoC41a6HbBWh5mXRBCPbb1UrexUNtLn?usp=sharing)
 - [X] [Пратика 0.3.0 на google диске](https://colab.research.google.com/drive/1_P3JZoSvuTQbCjozSanhXujmz9_9KorA?usp=sharing)
 - [X] [Пратика 0.2.0 на google диске](https://colab.research.google.com/drive/1DxK3852IrSW8Zn1USgmJSWxX6lQRl8Pd?usp=sharing)
+
+
+[example](https://img.shields.io/badge/any_text-you_like-blue)
