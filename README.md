@@ -1,4 +1,5 @@
 ## :heavy_check_mark: Выполненые практики от студента __Коробейникова Артёма Юрьевича из УрФУ__.
+![example](https://img.shields.io/badge/Google_colab-Python-blue)
 
 Это просто папка с файлами, перегруженными с google диска.
 
@@ -15,4 +16,3 @@
 - [X] [Пратика 0.2.0 на google диске](https://colab.research.google.com/drive/1DxK3852IrSW8Zn1USgmJSWxX6lQRl8Pd?usp=sharing)
 
 
-![example](https://img.shields.io/badge/Google_colab-Python-blue)
