@@ -5,7 +5,7 @@
 
 Это папка с выполнеными практиками по Python или копиями блокнотов преподавателя Вадима Вадимовича, но с решёнными заданиями.
 - [ ] [Защита практик](https://github.com/SWAWERREWEW/practices-urfu-publish)
-- [ ] <a.href=https://github.com/SWAWERREWEW/practices-urfu-publish target="_blank"> Защита практик </a>
+- [ ] <a href=https://github.com/SWAWERREWEW/practices-urfu-publish target="_blank"> Защита практик </a>
 - [X] [Практика 1.1.0 на Google диске](https://colab.research.google.com/drive/1UpuD-DGyyExaZkN1ndT7ybOXjzSpUmv9?usp=drive_link)
 - [X] [Практика 1.0.0 на Google диске](https://colab.research.google.com/drive/1pEx5Czy-tpxMx0bOsNy1M-vKyUX9naSh?usp=sharing)
 - [X] [Практика 0.9.0 на Google диске](https://colab.research.google.com/drive/1LrgaJtI4wWpsRuuJp3OPxmNQNYnUD0dp?usp=sharing)
